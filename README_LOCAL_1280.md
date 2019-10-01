@@ -1,0 +1,2 @@
+# Conflictus
+Provee conflicte
